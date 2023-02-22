@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "311983818778",
+    "project_id": "smart-parking-e8266",
+    "storage_bucket": "smart-parking-e8266.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311983818778:android:abe0b5bc2d088c5100e9a3",
+        "android_client_info": {
+          "package_name": "com.example.smart_parking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311983818778-io8k3mg6dqdtftjsf6nmh5ehmm9esavi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmOcn6mqiWSG1Eu9FX8Ef104KSZvh4PZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311983818778-io8k3mg6dqdtftjsf6nmh5ehmm9esavi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311983818778-8k22p6396lpu4uilgd081lr8n85tbi4v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartParking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
